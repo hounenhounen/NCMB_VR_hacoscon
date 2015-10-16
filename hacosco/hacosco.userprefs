@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Desktop/handson/Assets/Scripts/Ghost.cs">
+    <Files>
+      <File FileName="../../../../Desktop/handson/Assets/Scripts/SaveScore.cs" Line="12" Column="34" />
+      <File FileName="../../../../Desktop/handson/Assets/Scripts/Bg_ghost.cs" Line="24" Column="23" />
+      <File FileName="../../../../Desktop/handson/Assets/Scripts/Player.cs" Line="1" Column="1" />
+      <File FileName="../../../../Desktop/handson/Assets/Scripts/Ghost.cs" Line="29" Column="1" />
+      <File FileName="Assets/Scripts/Ghost/Ghost.cs" Line="19" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
